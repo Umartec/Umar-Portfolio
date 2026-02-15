@@ -15,7 +15,6 @@ export const skillsData = [
   'Django',
   'Python',
   'C++',
-  'C',
   'Canva',
   'Dart',
   'Flutter'
