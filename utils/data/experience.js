@@ -13,7 +13,7 @@ export const experiences = [
   },
   {
     id: 3,
-    title: "Fluuter Developer (Internship)",
+    title: "Flutter Developer (Internship)",
     company: "Virtue Netz",
     duration: "(April 2025 - June 2025)"
   },
